@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\partyplanning\\e2e"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\partyplanning\\node_modules"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\partyplanning\\partyplanning"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\partyplanning\\src"
+		},
+		{
+			"name": "partyplanning-1",
+			"path": "..\\..\\..\\..\\..\\partyplanning\\partyplanning-1"
+		}
+	]
+}
